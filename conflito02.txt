@@ -1,0 +1,10 @@
+Arquivo criado para simular resolução de conflito com arquivo baixado do repositorio.
+
+aaaaaaaa aaaaaaaaaaaaaa       aaaaaaaaaaaaaaaaaaaaaaaa
+bbbbbbbb bbbbbbbbbbbb bbbbbbbbbbbbb bbbbbbbbbbbbbbbbbbb
+cccccccccccccc cccccccccccccc ccccccccccccccccc ccccccccccccccc
+dddddddddddddd dddddddddddddddddddd dddddddddddddddddd dddddddddd
+eeeeeeeeeeeeeeeeeeeeee eeeeeeeeeeeeeeee eeeeeeeeeeeeeeeeeeeeeeeeeee
+ffffffffffff ffffffffffffffffffff ffffffffffffffffffff fffffffffffffff
+ggggggggggggggggggggggg gggggggggggggggg ggggggggggggggggg gggggggggggggg
+jjjjjjjjjjjjjjjjj jjjjjjjjjjjjjj jjjjjjjjj jjjjjjjjjjjjjjjjjjjjjjjjjjjjj
