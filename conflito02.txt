@@ -3,7 +3,7 @@ Arquivo criado para simular resolução de conflito com arquivo baixado do repos
 aaaaaaaa aaaaaaaaaaaaaa       aaaaaaaaaaaaaaaaaaaaaaaa
 bbbbbbbb bbbbbbbbbbbb bbbbbbbbbbbbb bbbbbbbbbbbbbbbbbbb
 cccccccccccccc cccccccccccccc ccccccccccccccccc ccccccccccccccc
-dddddddddddddd dddddddddddddddddddd dddddddddddddddddd dddddddddd
+55555555---> Linha adicionada para teste do git pull <--------55555555555
 eeeeeeeeeeeeeeeeeeeeee eeeeeeeeeeeeeeee eeeeeeeeeeeeeeeeeeeeeeeeeee
 ffffffffffff ffffffffffffffffffff ffffffffffffffffffff fffffffffffffff
 ggggggggggggggggggggggg gggggggggggggggg ggggggggggggggggg gggggggggggggg
